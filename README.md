@@ -1,8 +1,7 @@
 <p align="center">
-    <h1 align="center">POS System Using Laravel</h1>
+    <h1 align="center">POS</h1>
 </p>
 
-The project was created while recording video "Create POS System Using Laravel"
 
 ## Installation
 
